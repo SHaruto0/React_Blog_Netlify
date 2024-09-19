@@ -2,7 +2,7 @@
   "name": "blog",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://sharuto0.github.io/react_blog_netlify",
+  "homepage": "https://SHaruto0.github.io/react_blog_netlify",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
