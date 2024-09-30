@@ -11,7 +11,7 @@ export const DataProvider = ({ children }) => {
   const { width } = useWindowSize();
 
   const { data, fetchError, isLoading } = useAxiosFetch(
-    "http://localhost:3500/posts"
+    "http://localhost:4000/posts"
   );
 
   useEffect(() => {
