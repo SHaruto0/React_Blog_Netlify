@@ -23,7 +23,7 @@ React Blog is a simple blogging application built with React.js, designed to all
    ```
 4. Start a JSON server for handling the mock API:
    ```bash
-   npx json-server -p 3500 -w data/db.json
+   npx json-server -p 4000 -w data/db.json
    ```
 
 ## Usage
